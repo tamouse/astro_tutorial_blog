@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownLayout.astro
 title: 'Hello, World!'
 pubDate: 2024-03-21T14:02:27.815-05:00
 description: 'My first blog post on Astro in the tutorial'
@@ -8,9 +9,6 @@ image:
   alt: ''
 tags: []
 ---
-# {title}
-
-Published on: Thu, 21 Mar 2024 14:05:39 CDT
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
