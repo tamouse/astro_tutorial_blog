@@ -27,6 +27,7 @@ h1 {
 .hamburger {
   padding-right: 20px;
   cursor: pointer;
+  display: none;
 }
 
 .hamburger .line {
@@ -79,4 +80,13 @@ h1 {
     padding: 15px 20px;
   }
 
+}
+
+html.dark {
+  background-color: #0d0950;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
 }
